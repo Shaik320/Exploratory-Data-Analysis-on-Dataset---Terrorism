@@ -1,4 +1,6 @@
-# LGMVIP_TASK2_Exploratory-Data-Analysis-on-Dataset---Terrorism
+# LGMVIP Data Science Internship
+# Author: Shaik Khaja Bee, Data Science Intern at LetsGrowMore 
+# LGMVIP_TASK2-1)_Exploratory-Data-Analysis-on-Dataset---Terrorism
 
 # Dataset: https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view
 
